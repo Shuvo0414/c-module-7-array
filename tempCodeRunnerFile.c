@@ -1,1 +1,3 @@
-int ar [3]; //thats means i creat , ar[0], ar[1],ar[2].
+int myNumber [] ={10,20,30,40};
+    // int length = sizeof(myNumber);
+    // printf("%d\n", length);
