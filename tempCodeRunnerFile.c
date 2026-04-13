@@ -1,0 +1,1 @@
+int ar [3]; //thats means i creat , ar[0], ar[1],ar[2].
